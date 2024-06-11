@@ -4,7 +4,7 @@ This repository contains a collection of static web pages built using HTML, CSS,
 
 The web pages cover various topics and are intended for educational and demonstration purposes. Feel free to explore the codebase, modify it, and use it as a starting point for your own projects.
 
-### Project that we are going to build in this complete practice course
+### Project in this repository are:-
 - Project 1 - Tribute Website
 - Project 2 - Job Application
 - Project 3 - Parallax Website
