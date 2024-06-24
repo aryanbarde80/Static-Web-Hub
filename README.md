@@ -6,14 +6,15 @@ The web pages cover various topics and are intended for educational and demonstr
 
 ### Projects I built in this practice course 🚀
 - Project 1 - Tribute Website
-- Project 2 - Job Application
-- Project 3 - Parallax Website
-- Project 4 - Landing Page
-- Project 5 - Restaurant Website
-- Project 6 - Music Website
-- Project 7 - YouTube Clone
-- Project 8 - JavaScript Documentation
-- Project 9 - Blog Website
-- Project 10 - Portfolio Website
+- Project 2 - Calculator
+- Project 3 - Job Application
+- Project 4 - Parallax Website
+- Project 5 - Landing Page
+- Project 6 - Restaurant Website
+- Project 7 - Music Website
+- Project 8 - YouTube Clone
+- Project 9 - JavaScript Documentation
+- Project 10 - Blog Website
+- Project 11 - Portfolio Website
 
 This repository serves as a practical resource for learning and enhancing web development skills through hands-on projects.
