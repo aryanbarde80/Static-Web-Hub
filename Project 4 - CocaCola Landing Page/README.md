@@ -11,6 +11,7 @@ This is a beautifully designed, <b>responsive</b> standalone web page of <b>Coca
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 </p>
 
+## Preview
 ![WebpageImg](https://github.com/aryanbarde80/Static-Web-Hub/blob/main/Project%204%20-%20CocaCola%20Landing%20Page/Screenshot%20(261).png)
 
 
