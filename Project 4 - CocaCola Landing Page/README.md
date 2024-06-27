@@ -11,5 +11,4 @@ This is a beautifully designed, <b>responsive</b> standalone web page of <b>Coca
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 </p>
 
-## Screenshot
-![Screenshot 2022-04-22 230057](https://user-images.githubusercontent.com/96786500/164765121-d54564d4-9b60-4e26-a767-f24a055b9c4b.png)
+
