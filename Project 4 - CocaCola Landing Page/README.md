@@ -1,9 +1,7 @@
 # Coca-Cola Landing Page 🥤🌐
 
 This repository contains the source code and files for the Coca-Cola Landing Page, a project showcasing a basic web design using HTML and CSS. The landing page aims to provide a visually appealing and engaging user experience for visitors interested in learning more about Coca-Cola. 🎉💻
-## 📸 Demo
 
-![Coca-Cola Landing Page](https://github.com/LearnerAnuja/Coco-ColaLandingPage/assets/96904529/ba153374-030c-46ce-8db3-9bfff08b0509)
 ## 🌟 Features 🚀
 
 - 🔸 **Stylish and Modern:** The page incorporates modern design elements, such as sleek typography, vibrant colors, and smooth animations, to create an aesthetically pleasing look and feel. 🎨✨
