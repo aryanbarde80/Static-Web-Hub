@@ -11,14 +11,15 @@ The web pages cover various topics and are intended for educational and demonstr
 - Project 4 - CocaCola Landing Page
 - Project 5 - Analog Clock
 - Project 6 - FrontEnd Netflix India Clone
-- Project 7 - Job Application
-- Project 8 - Parallax Website
-- Project 9 - Landing Page
-- Project 10 - Restaurant Website
-- Project 11 - Music Website
-- Project 12 - YouTube Clone
-- Project 13 - JavaScript Documentation
-- Project 14 - Blog Website
-- Project 15 - Portfolio Website
+- Project 7 - Weather App
+- Project 8 - Job Application
+- Project 9 - Parallax Website
+- Project 10 - Landing Page
+- Project 11 - Restaurant Website
+- Project 12 - Music Website
+- Project 13 - YouTube Clone
+- Project 14 - JavaScript Documentation
+- Project 15 - Blog Website
+- Project 16 - Portfolio Website
 
 This repository serves as a practical resource for learning and enhancing web development skills through hands-on projects.
