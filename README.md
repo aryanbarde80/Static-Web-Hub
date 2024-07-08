@@ -12,14 +12,15 @@ The web pages cover various topics and are intended for educational and demonstr
 - Project 5 - Analog Clock
 - Project 6 - FrontEnd Netflix India Clone
 - Project 7 - Weather App
-- Project 8 - Job Application
-- Project 9 - Parallax Website
-- Project 10 - Landing Page
-- Project 11 - Restaurant Website
-- Project 12 - Music Website
-- Project 13 - YouTube Clone
-- Project 14 - JavaScript Documentation
-- Project 15 - Blog Website
-- Project 16 - Portfolio Website
+- Project 8 - Carl Chatbot
+- Project 9 - Job Application
+- Project 10 - Parallax Website
+- Project 11 - Landing Page
+- Project 12 - Restaurant Website
+- Project 13 - Music Website
+- Project 14 - YouTube Clone
+- Project 15 - JavaScript Documentation
+- Project 16 - Blog Website
+- Project 17 - Portfolio Website
 
 This repository serves as a practical resource for learning and enhancing web development skills through hands-on projects.
