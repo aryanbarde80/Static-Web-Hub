@@ -1,0 +1,7 @@
+Statemtnts that it can answer:-
+
+1. hello
+2. how are you
+3. what is your name
+4. tell me a joke
+5. (some random text)
