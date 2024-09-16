@@ -14,14 +14,6 @@ The web pages cover various topics and are intended for educational and demonstr
 - Project 7 - Weather App
 - Project 8 - Carl Chatbot
 - Project 9 - Coding Shuttle News : News Website Project
-- Project 10 - Job Application
-- Project 11 - Parallax Website
-- Project 12 - Landing Page
-- Project 13 - Restaurant Website
-- Project 14 - Music Website
-- Project 15 - YouTube Clone
-- Project 16 - JavaScript Documentation
-- Project 17 - Blog Website
-- Project 18 - Portfolio Website
+- Project 10 - Portfolio Website
 
 This repository serves as a practical resource for learning and enhancing web development skills through hands-on projects.
