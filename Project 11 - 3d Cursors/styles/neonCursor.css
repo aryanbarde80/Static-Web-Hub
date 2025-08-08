@@ -1,0 +1,24 @@
+.neon-green-blob {
+  width: 50px;
+  height: 50px;
+  background-color: #00c851;
+  border-radius: 50%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 9998;
+  transform: translate(-50%, -50%); /* Perfect centering */
+}
+.neon-white-dot {
+  width: 8px;
+  height: 8px;
+  background-color: white;
+  border-radius: 50%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate(-50%, -50%); /* Perfect centering */
+}

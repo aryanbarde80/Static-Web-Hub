@@ -1,0 +1,78 @@
+.video-wrapper {
+  z-index: -9999;
+  width: 270px;
+  height: 270px;
+  /* overflow: hidden; */
+  position: absolute;
+
+  /* Initial polygon */
+
+  /* display: none; */
+  animation: morphClip 5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-fill-mode: forwards;
+  animation-fill-mode: both;
+  animation-delay: 3s;
+  transition: clip-path 1s ease-in-out;
+}
+
+@keyframes morphClip {
+  0% {
+    width: 270px;
+    height: 270px;
+    clip-path: polygon(
+      0.2% 0%,
+      /* top-left */ 90% 0%,
+      /* top-right */ 100% 0.2%,
+      /* top-inner-right */ 100% 90%,
+      /* bottom-inner-right */ 99.8% 100%,
+      /* bottom-right */ 0.2% 100%,
+      /* bottom-left */ 0% 96%,
+      /* bottom-inner-left */ 0% 10% /* top-inner-left */
+    );
+  }
+  10% {
+    width: 400px;
+    height: 400px;
+    clip-path: polygon(
+      6% 13.5%,
+      /* Top-left front corner ✅ */ 37% 12%,
+      /* Top edge (center top) */ 95.5% 17.5%,
+      /* Top-right outer corner✅ */ 96% 20.5%,
+      /* Right-upper corner✅ */ 91% 80%,
+      /* Right-lower corner  ✅*/ 90% 83%,
+      /* Bottom-right outer corner ✅*/ 68% 96%,
+      /* Bottom edge center ✅ */ 63% 96.5%,
+      /* Bottom edge center */ 4% 85.5%,
+      /* Bottom-left corner ✅*/ 0.7% 80.5%,
+      /* Left-lower outer corner ✅ */ 3.5% 17.2%
+        /* Left-upper outer corner ✅ */
+    );
+  }
+
+  100% {
+    width: 400px;
+    height: 400px;
+    clip-path: polygon(
+      6% 13.5%,
+      /* Top-left front corner ✅ */ 37% 12%,
+      /* Top edge (center top) */ 95.5% 17.5%,
+      /* Top-right outer corner✅ */ 96% 20.5%,
+      /* Right-upper corner✅ */ 91% 80%,
+      /* Right-lower corner  ✅*/ 90% 83%,
+      /* Bottom-right outer corner ✅*/ 68% 96%,
+      /* Bottom edge center ✅ */ 63% 96.5%,
+      /* Bottom edge center */ 4% 85.5%,
+      /* Bottom-left corner ✅*/ 0.7% 80.5%,
+      /* Left-lower outer corner ✅ */ 3.5% 17.2%
+        /* Left-upper outer corner ✅ */
+    );
+  }
+}
+
+.video-wrapper video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
